@@ -14,10 +14,6 @@ Backend & Tools: Supabase · PostgreSQL · Git · GitHub
 
 AI Tools: AI-assisted development · Gemini · Groq
 
-✧ Let's Connect 
-LinkedIn : https://www.linkedin.com/in/ziaprasad%E2%99%A1
-
-GitHub : https://github.com/ZiaPrasad
 
 Learning by building. Growing with every experiment. ☆
 
